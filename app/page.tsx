@@ -31,7 +31,8 @@ export default function Home() {
 
       <div className="mt-12 text-center max-w-2xl">
         <p className="text-xl italic text-gray-300">
-          "mujhe gareeb hone ka fhobia hai_aniket bharadwaj"
+          "mujhe gareeb rehne ka fobia hai ~aniket bharadawaj (ani badmos)"
+
         </p>
       </div>
 
@@ -56,7 +57,8 @@ export default function Home() {
         {result !== null && (
           <div className="mt-6">
             <p className="text-lg">
-              System Percentage:
+              Palwal Vibecoder Percentage
+
             </p>
             <p className="text-4xl font-bold text-green-400">
               {result}%
@@ -72,7 +74,8 @@ export default function Home() {
             Instant AI Quality Check
           </h3>
           <p className="text-gray-400">
-            1. Get percentage of system in ur palwal ka ladka
+            1.Get percentage of ur chances to go to Singapore this holiday
+
           </p>
         </div>
 
